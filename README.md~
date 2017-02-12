@@ -4,3 +4,9 @@ machine
 chaning it gor pushing on remote
 changing it to see when conflict happens what remain
 line 1 - from remote
+
+<<<<<<< HEAD
+check now
+=======
+line 3 from remote
+>>>>>>> fa1d1c11f8f24fa884a784b97d53709f5ae8c337
