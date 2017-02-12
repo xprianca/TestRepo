@@ -2,5 +2,5 @@
 From git to 
 machine
 chaning it gor pushing on remote
-
-Line 2 - from machine
+changing it to see when conflict happens what remain
+line 1 - from remote
